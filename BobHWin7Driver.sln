@@ -9,7 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestDriver", "Test\Test.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestDll", "TestDll\TestDll.vcxproj", "{214059BC-DEB3-4EFD-B910-2745B20F3457}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BobHWinDriverDll", "BobHWinDriverDll\BobHWinDriverDll.vcxproj", "{2214F483-457D-4DAA-B14B-27C322742B15}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Qt5Work", "Qt5Work\Qt5Work.vcxproj", "{2214F483-457D-4DAA-B14B-27C322742B15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
